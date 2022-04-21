@@ -7,6 +7,8 @@ https://fastapi.tiangolo.com/ja/tutorial/security/first-steps/
 ※日本語版は情報欠如しているため英語版を読む必要あり
 https://fastapi.tiangolo.com/ja/tutorial/security/get-current-user/
 
+進捗
+Simple OAuth2 with Password and Bearer¶
 
 ### uvicornの起動
 ```bash
